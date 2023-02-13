@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-13T09:13:30 IST" name="Suite" finished-at="2023-02-13T09:13:43 IST" duration-ms="12840">
+    <groups>
+    </groups>
+    <test started-at="2023-02-13T09:13:30 IST" name="Test" finished-at="2023-02-13T09:13:43 IST" duration-ms="12840">
+      <class name="Test_Runner.TestCase_1">
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de]" started-at="2023-02-13T09:13:30 IST" name="beforeTestMethod" finished-at="2023-02-13T09:13:31 IST" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method is-config="true" signature="beforeMethodTest(java.lang.String,java.lang.reflect.Method)[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de]" started-at="2023-02-13T09:13:31 IST" name="beforeMethodTest" finished-at="2023-02-13T09:13:38 IST" duration-ms="7618" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void Test_Runner.TestCase_1.Testhome()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="Testhome()[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de]" started-at="2023-02-13T09:13:38 IST" name="Testhome" finished-at="2023-02-13T09:13:39 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testhome -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de]" started-at="2023-02-13T09:13:39 IST" name="afterMethod" finished-at="2023-02-13T09:13:39 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testhome status=SUCCESS method=TestCase_1.Testhome()[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethodTest(java.lang.String,java.lang.reflect.Method)[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de]" started-at="2023-02-13T09:13:39 IST" name="beforeMethodTest" finished-at="2023-02-13T09:13:41 IST" duration-ms="2631" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void Test_Runner.TestCase_1.Testloginpage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodTest -->
+        <test-method signature="Testloginpage()[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de]" started-at="2023-02-13T09:13:41 IST" name="Testloginpage" finished-at="2023-02-13T09:13:42 IST" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testloginpage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de]" started-at="2023-02-13T09:13:42 IST" name="afterMethod" finished-at="2023-02-13T09:13:42 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Testloginpage status=SUCCESS method=TestCase_1.Testloginpage()[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Test_Runner.TestCase_1@4b8ee4de]" started-at="2023-02-13T09:13:42 IST" name="afterTest" finished-at="2023-02-13T09:13:43 IST" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Test_Runner.TestCase_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
